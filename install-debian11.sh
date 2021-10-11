@@ -10,7 +10,6 @@ echo ""
 echo " === Prepare Asterisk === "
 echo ""
 
-
 systemctl stop asterisk
 systemctl disable asterisk
 cd /etc/asterisk
